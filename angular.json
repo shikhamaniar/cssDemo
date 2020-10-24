@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/custom-theme.scss",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "e-kyc"
+    }
+  },
+  "defaultProject": "e-kyc",
+  "cli": {
+    "analytics": "02888ac0-a7d0-4bc5-b0fa-b0d94c757dfa"
+  }
 }
